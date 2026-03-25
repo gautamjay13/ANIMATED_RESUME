@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+
 import "./styles/Work.css";
 import WorkImage from "./WorkImage";
 
