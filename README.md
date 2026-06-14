@@ -82,15 +82,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
 
-Add your screenshots here:
-
-```md
-![Home](public/screenshots/home.png)
-![Projects](public/screenshots/projects.png)
-![Contact](public/screenshots/contact.png)
-```
 
 ---
 
@@ -105,7 +97,7 @@ https://animated-resume-2kss-d5k3nyt3y-gautamjay13s-projects.vercel.app/
 
 ## 👨‍💻 Author
 
-### Gautam Jay
+### Jay Gautam
 
 - GitHub: https://github.com/gautamjay13
 - LinkedIn: https://www.linkedin.com/in/gautamjay13
@@ -119,6 +111,3 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
